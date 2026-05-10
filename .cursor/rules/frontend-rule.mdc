@@ -11,3 +11,7 @@ alwaysApply: false
 - You should use Next.js as it works best with Vercel. 
 - This frontend will ultimately be deployed on Vercel, but it should be possible to test locally. 
 - Always provide users with a way to run the created UI once you have created it.
+
+Dark fintech theme. Navy blue background (#0a0f1e). 
+Emerald green accents (#10b981). White text. 
+Clean sans-serif typography. Professional and minimal.
